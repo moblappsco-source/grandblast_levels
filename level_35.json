@@ -1,0 +1,113 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 20,
+	"random_tiles": true,
+	"main_tiles": [
+		"blue",
+		"green",
+		"red"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "bubble",
+			"amount": 9
+		}
+	],
+	"obstacles": [
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					1,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					3,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					5,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					7,
+					3
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		}
+	]
+}

@@ -1,0 +1,258 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 39,
+	"random_tiles": true,
+	"main_tiles": [
+		"yellow",
+		"blue",
+		"green",
+		"red"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "bottle",
+			"amount": 85
+		}
+	],
+	"obstacles": [
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					1
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					2
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					1,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					3,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					5,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					7,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					2
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					1
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					0
+				]
+			]
+		}
+	]
+}

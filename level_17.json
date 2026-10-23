@@ -1,0 +1,478 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 32,
+	"random_tiles": true,
+	"main_tiles": [
+		"red",
+		"yellow",
+		"blue"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "baloon",
+			"amount": 92
+		},
+		{
+			"type": "obstacle",
+			"target": "box_1",
+			"amount": 9
+		}
+	],
+	"obstacles": [
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					0
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					1
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		}
+	]
+}

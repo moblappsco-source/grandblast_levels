@@ -1,0 +1,424 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 48,
+	"random_tiles": true,
+	"main_tiles": [
+		"blue",
+		"green",
+		"red"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		".1111111.",
+		"..11111..",
+		"...111...",
+		"....1...."
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "bottle",
+			"amount": 34
+		},
+		{
+			"type": "obstacle",
+			"target": "box_1",
+			"amount": 34
+		}
+	],
+	"obstacles": [
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					1,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					7,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					1,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					2,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					7,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					1
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					0
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					1
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					0
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					1
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					0
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					1,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					3,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					5,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					7,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		}
+	]
+}

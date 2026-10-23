@@ -1,0 +1,764 @@
+{
+	"rows": 10,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 39,
+	"random_tiles": true,
+	"main_tiles": [
+		"blue",
+		"yellow",
+		"green"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"grid": [
+		[
+			"",
+			"",
+			"",
+			"",
+			"comp_rocket_vertical",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"green",
+			"",
+			"yellow",
+			"",
+			"comp_lightball_green",
+			"",
+			"yellow",
+			"",
+			"green"
+		],
+		[
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"green",
+			"",
+			"green",
+			"",
+			"green",
+			"",
+			"green",
+			"",
+			"green"
+		],
+		[
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"green",
+			"",
+			"yellow",
+			"",
+			"green",
+			"",
+			"yellow",
+			"",
+			"green"
+		],
+		[
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"green",
+			"",
+			"green",
+			"",
+			"green",
+			"",
+			"green",
+			"",
+			"green"
+		],
+		[
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"green",
+			"",
+			"",
+			"",
+			"green",
+			"",
+			"",
+			"",
+			"green"
+		]
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "box_1",
+			"amount": 26
+		},
+		{
+			"type": "obstacle",
+			"target": "baloon",
+			"amount": 38
+		}
+	],
+	"obstacles": [
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					3,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					7,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					4,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					4,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					9
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					3,
+					9
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					5,
+					9
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					9
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					3,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					5,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					3,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					5,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					3,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					5,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		}
+	]
+}
