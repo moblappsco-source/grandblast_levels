@@ -1,0 +1,440 @@
+{
+	"rows": 11,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 25,
+	"random_tiles": true,
+	"main_tiles": [
+		"yellow",
+		"green",
+		"red"
+	],
+	"layout": [
+		"...1.1...",
+		".1111111.",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		".1111111.",
+		"...1.1..."
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "baloon",
+			"amount": 54
+		},
+		{
+			"type": "obstacle",
+			"target": "bottle",
+			"amount": 60
+		}
+	],
+	"obstacles": [
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					9
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					6,
+					9
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					1
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					2
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					4
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					4,
+					9
+				]
+			]
+		}
+	]
+}

@@ -5,8 +5,8 @@
 	"moves": 32,
 	"random_tiles": true,
 	"main_tiles": [
-		"red",
 		"yellow",
+		"red",
 		"blue"
 	],
 	"layout": [

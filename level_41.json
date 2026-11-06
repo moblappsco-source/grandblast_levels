@@ -1,0 +1,194 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 32,
+	"random_tiles": true,
+	"main_tiles": [
+		"yellow",
+		"red",
+		"green"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "duck",
+			"amount": 18
+		}
+	],
+	"obstacles": [
+		{
+			"type": "duck",
+			"cells": [
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					1,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					2,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					3,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					4,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					5,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					6,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					7,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					8,
+					0
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					1,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					3,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					5,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					7,
+					5
+				]
+			]
+		},
+		{
+			"type": "duck",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		}
+	]
+}

@@ -2,12 +2,12 @@
 	"rows": 9,
 	"columns": 9,
 	"cell_size": 86,
-	"moves": 31,
+	"moves": 54,
 	"random_tiles": true,
 	"main_tiles": [
 		"yellow",
-		"pink",
-		"green"
+		"green",
+		"pink"
 	],
 	"layout": [
 		"111111111",
@@ -24,12 +24,102 @@
 		{
 			"type": "obstacle",
 			"target": "baloon_color",
-			"amount": 60
+			"amount": 120
 		}
 	],
 	"obstacles": [
 		{
 			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					0
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					2
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "green",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "baloon",
 			"color": "pink",
 			"cells": [
 				[
@@ -120,100 +210,10 @@
 		},
 		{
 			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					0
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					2
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					3
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					4
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					5
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					6
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					7
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "pink",
-			"cells": [
-				[
-					1,
-					8
-				]
-			]
-		},
-		{
-			"type": "baloon",
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					0
 				]
 			]
@@ -223,7 +223,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					1
 				]
 			]
@@ -233,7 +233,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					2
 				]
 			]
@@ -243,7 +243,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					3
 				]
 			]
@@ -253,7 +253,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					4
 				]
 			]
@@ -263,7 +263,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					5
 				]
 			]
@@ -273,7 +273,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					6
 				]
 			]
@@ -283,7 +283,7 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					7
 				]
 			]
@@ -293,98 +293,8 @@
 			"color": "yellow",
 			"cells": [
 				[
-					7,
+					3,
 					8
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					8
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					7
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					6
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					5
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					4
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					3
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					2
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "yellow",
-			"cells": [
-				[
-					8,
-					0
 				]
 			]
 		}

@@ -5,8 +5,8 @@
 	"moves": 40,
 	"random_tiles": true,
 	"main_tiles": [
-		"blue",
 		"yellow",
+		"blue",
 		"green"
 	],
 	"layout": [
@@ -112,13 +112,13 @@
 	"goals": [
 		{
 			"type": "obstacle",
-			"target": "baloon",
-			"amount": 40
+			"target": "box_1",
+			"amount": 24
 		},
 		{
 			"type": "obstacle",
-			"target": "box_1",
-			"amount": 24
+			"target": "baloon",
+			"amount": 40
 		}
 	],
 	"obstacles": [
@@ -217,7 +217,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					0,
+					5,
 					1
 				]
 			]
@@ -227,7 +227,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					1,
+					6,
 					1
 				]
 			]
@@ -237,7 +237,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					2,
+					7,
 					1
 				]
 			]
@@ -247,7 +247,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					3,
+					8,
 					1
 				]
 			]
@@ -257,7 +257,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					2,
+					6,
 					2
 				]
 			]
@@ -267,7 +267,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					1,
+					7,
 					2
 				]
 			]
@@ -277,7 +277,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					0,
+					8,
 					2
 				]
 			]
@@ -287,7 +287,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					1,
+					7,
 					3
 				]
 			]
@@ -297,7 +297,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					2,
+					6,
 					3
 				]
 			]
@@ -307,7 +307,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					3,
+					5,
 					3
 				]
 			]
@@ -327,7 +327,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					5,
+					3,
 					3
 				]
 			]
@@ -337,7 +337,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					6,
+					2,
 					3
 				]
 			]
@@ -347,7 +347,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					7,
+					1,
 					3
 				]
 			]
@@ -357,47 +357,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					5,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "orange",
-			"cells": [
-				[
-					6,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "orange",
-			"cells": [
-				[
-					7,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "orange",
-			"cells": [
-				[
-					8,
-					1
-				]
-			]
-		},
-		{
-			"type": "baloon",
-			"color": "orange",
-			"cells": [
-				[
-					6,
+					2,
 					2
 				]
 			]
@@ -407,7 +367,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					7,
+					1,
 					2
 				]
 			]
@@ -417,7 +377,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					8,
+					0,
 					2
 				]
 			]
@@ -427,8 +387,38 @@
 			"color": "orange",
 			"cells": [
 				[
-					6,
-					4
+					3,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					2,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					1,
+					1
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					0,
+					1
 				]
 			]
 		},
@@ -447,7 +437,17 @@
 			"color": "orange",
 			"cells": [
 				[
-					3,
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "baloon",
+			"color": "orange",
+			"cells": [
+				[
+					5,
 					5
 				]
 			]
@@ -457,7 +457,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					3,
+					5,
 					6
 				]
 			]
@@ -467,7 +467,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					3,
+					5,
 					7
 				]
 			]
@@ -497,7 +497,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					5,
+					3,
 					5
 				]
 			]
@@ -507,7 +507,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					5,
+					3,
 					6
 				]
 			]
@@ -517,43 +517,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					5,
-					7
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					0,
-					4
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					0,
-					5
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					0,
-					6
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					0,
+					3,
 					7
 				]
 			]
@@ -571,7 +535,7 @@
 			"type": "box_3",
 			"cells": [
 				[
-					1,
+					0,
 					4
 				]
 			]
@@ -580,7 +544,7 @@
 			"type": "box_3",
 			"cells": [
 				[
-					1,
+					0,
 					5
 				]
 			]
@@ -589,7 +553,7 @@
 			"type": "box_3",
 			"cells": [
 				[
-					1,
+					0,
 					6
 				]
 			]
@@ -598,97 +562,7 @@
 			"type": "box_3",
 			"cells": [
 				[
-					1,
-					7
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					2,
-					5
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					2,
-					6
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					2,
-					7
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					6,
-					5
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					6,
-					6
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					6,
-					7
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					7,
-					4
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					7,
-					5
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					7,
-					6
-				]
-			]
-		},
-		{
-			"type": "box_3",
-			"cells": [
-				[
-					7,
+					0,
 					7
 				]
 			]
@@ -734,6 +608,132 @@
 			"cells": [
 				[
 					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					7,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					1,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_3",
+			"cells": [
+				[
+					2,
 					7
 				]
 			]

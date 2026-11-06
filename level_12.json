@@ -5,8 +5,8 @@
 	"moves": 22,
 	"random_tiles": true,
 	"main_tiles": [
-		"blue",
 		"yellow",
+		"blue",
 		"red"
 	],
 	"layout": [
@@ -129,7 +129,7 @@
 			"type": "box_1",
 			"cells": [
 				[
-					0,
+					2,
 					0
 				]
 			]
@@ -147,7 +147,7 @@
 			"type": "box_1",
 			"cells": [
 				[
-					2,
+					0,
 					0
 				]
 			]
@@ -327,16 +327,7 @@
 			"type": "box_1",
 			"cells": [
 				[
-					7,
-					5
-				]
-			]
-		},
-		{
-			"type": "box_1",
-			"cells": [
-				[
-					5,
+					1,
 					5
 				]
 			]
@@ -354,7 +345,16 @@
 			"type": "box_1",
 			"cells": [
 				[
-					1,
+					5,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					7,
 					5
 				]
 			]
@@ -561,8 +561,17 @@
 			"type": "bubble",
 			"cells": [
 				[
-					2,
-					8
+					3,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					3,
+					7
 				]
 			]
 		},
@@ -580,6 +589,87 @@
 			"cells": [
 				[
 					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					7,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					7,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					7,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					2,
 					8
 				]
 			]
@@ -590,96 +680,6 @@
 				[
 					5,
 					8
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					6,
-					8
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					7,
-					8
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					6,
-					7
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					7,
-					7
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					6,
-					6
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					7,
-					6
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					3,
-					6
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					4,
-					6
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					4,
-					7
-				]
-			]
-		},
-		{
-			"type": "bubble",
-			"cells": [
-				[
-					3,
-					7
 				]
 			]
 		}

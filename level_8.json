@@ -5,8 +5,8 @@
 	"moves": 39,
 	"random_tiles": true,
 	"main_tiles": [
-		"blue",
 		"yellow",
+		"red",
 		"green"
 	],
 	"layout": [
@@ -124,11 +124,11 @@
 		[
 			"green",
 			"",
-			"",
+			"yellow",
 			"",
 			"green",
 			"",
-			"",
+			"yellow",
 			"",
 			"green"
 		]
@@ -391,7 +391,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					2,
+					0,
 					0
 				]
 			]
@@ -401,7 +401,7 @@
 			"color": "orange",
 			"cells": [
 				[
-					0,
+					2,
 					0
 				]
 			]
