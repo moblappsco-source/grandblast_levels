@@ -1,0 +1,462 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 21,
+	"random_tiles": true,
+	"main_tiles": [
+		"yellow",
+		"pink",
+		"green"
+	],
+	"layout": [
+		"....1....",
+		"...111...",
+		"..11111..",
+		".1111111.",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"grid": [
+		[
+			"",
+			"",
+			"",
+			"",
+			"pink",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"",
+			"",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"",
+			""
+		],
+		[
+			"",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			""
+		],
+		[
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			""
+		],
+		[
+			"pink",
+			"",
+			"pink",
+			"",
+			"comp_lightball_pink",
+			"",
+			"pink",
+			"",
+			"pink"
+		],
+		[
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			""
+		],
+		[
+			"",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			""
+		],
+		[
+			"",
+			"",
+			"",
+			"pink",
+			"",
+			"pink",
+			"",
+			"",
+			""
+		],
+		[
+			"",
+			"",
+			"",
+			"",
+			"pink",
+			"",
+			"",
+			"",
+			""
+		]
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "bottle",
+			"amount": 65
+		},
+		{
+			"type": "obstacle",
+			"target": "baloon",
+			"amount": 25
+		}
+	],
+	"obstacles": [
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					1,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					1
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					2
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					7,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					3,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					5,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_1",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					1,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					3,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					1,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					1,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					2,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					5,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					7,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					7,
+					6
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					7,
+					7
+				]
+			]
+		},
+		{
+			"type": "cauldron",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		}
+	]
+}
