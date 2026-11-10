@@ -1,0 +1,555 @@
+{
+	"rows": 9,
+	"columns": 9,
+	"cell_size": 86,
+	"moves": 30,
+	"random_tiles": true,
+	"main_tiles": [
+		"yellow",
+		"green",
+		"red"
+	],
+	"layout": [
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111",
+		"111111111"
+	],
+	"goals": [
+		{
+			"type": "obstacle",
+			"target": "box_1",
+			"amount": 9
+		},
+		{
+			"type": "obstacle",
+			"target": "orb",
+			"amount": 58
+		},
+		{
+			"type": "obstacle",
+			"target": "bubble",
+			"amount": 16
+		}
+	],
+	"obstacles": [
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					0,
+					8
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					1,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					2,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					3,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					4,
+					4
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					5,
+					5
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					6,
+					6
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					7,
+					7
+				]
+			]
+		},
+		{
+			"type": "box_2",
+			"cells": [
+				[
+					8,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					5
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					4,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					3,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					3,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					3,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					2,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					2,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					1,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					5,
+					6
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					5,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					5,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					7
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					6,
+					8
+				]
+			]
+		},
+		{
+			"type": "bubble",
+			"cells": [
+				[
+					7,
+					8
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					7
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					6
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					5
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					4
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					2
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					1
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					0
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					0,
+					3
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					5
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					4
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					3
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					2
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					1
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					2,
+					0
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					4,
+					3
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					4,
+					2
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					4,
+					1
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					4,
+					0
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					5
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					4
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					3
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					2
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					1
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					6,
+					0
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					7
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					6
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					5
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					4
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					3
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					2
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					1
+				]
+			]
+		},
+		{
+			"type": "orb",
+			"cells": [
+				[
+					8,
+					0
+				]
+			]
+		}
+	]
+}
